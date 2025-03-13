@@ -1,0 +1,26 @@
+M  commit_count.txt
+?? status.txt
+[master 92bc31c] update - Run #2
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+remote: error: Trace: 8a0e6aa6cbcd9cbf6a0275c36bfa9833e38e438d8d74757825486f5a9c5d357f        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File VSCodeUserSetup-x64-1.97.1.exe is 100.72 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/jiheekim01/python-practice.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/jiheekim01/python-practice.git'
+[2025-03-13-- 오후-12] Commit and push completed for Run #2. 
+M  commit_count.txt
+A  commit_log.txt
+?? status.txt
+[main 2835a40] update - Run #3
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+ create mode 100644 commit_log.txt
+remote: error: Trace: e89e3e9734232b87eb7146555fe865787c74b747a903dbc6c9dd1e102f8f4200        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File VSCodeUserSetup-x64-1.97.1.exe is 100.72 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/jiheekim01/python-practice.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/jiheekim01/python-practice.git'
+[2025-03-13-- 오후-12] Commit and push completed for Run #3. 
