@@ -1,0 +1,6 @@
+﻿post_id,date,content,likes,retruths,replies,image_urls,post_url,sentiment,sentiment_score
+sample-1,2024-04-30T12:00:00Z,MAKE AMERICA GREAT AGAIN!,45000,12000,8000,[],https://example.com/sample-1,positive,0.9998815059661865
+sample-2,2024-04-29T15:30:00Z,"The economy is booming! Jobs are coming back to America. We're seeing incredible numbers, the best in years!",38000,10500,7200,[],https://example.com/sample-2,positive,0.999848484992981
+sample-3,2024-04-28T18:45:00Z,Our border has never been more secure. We're stopping the flow of illegal immigration and keeping Americans safe.,42000,11800,7800,[],https://example.com/sample-3,positive,0.997252881526947
+sample-4,2024-04-27T09:15:00Z,Fake News Media continues to push their narrative. Don't believe their lies! We're winning bigger than ever.,50000,15000,9500,[],https://example.com/sample-4,negative,0.9851219654083252
+sample-5,2024-04-26T14:20:00Z,Just announced a huge new initiative that will create thousands of jobs for American workers. America First!,47000,13500,8600,[],https://example.com/sample-5,positive,0.9996469020843506
